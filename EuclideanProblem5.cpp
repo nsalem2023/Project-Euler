@@ -7,7 +7,7 @@
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 Euclidean Algorithm for GCD
-LCD = multiplication of the numbers / gcd of the numbers
+LCD = product of the numbers / gcd of the numbers
 */
 #include <iostream>
 using namespace std;
